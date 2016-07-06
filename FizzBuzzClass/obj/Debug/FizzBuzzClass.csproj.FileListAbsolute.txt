@@ -1,0 +1,10 @@
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzClass\bin\Debug\FizzBuzzClass.dll
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzClass\bin\Debug\FizzBuzzClass.pdb
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.csprojResolveAssemblyReference.cache
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.dll
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzClass\bin\Debug\FizzBuzzClass.dll
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzClass\bin\Debug\FizzBuzzClass.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.csprojResolveAssemblyReference.cache
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.dll
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzClass\obj\Debug\FizzBuzzClass.pdb

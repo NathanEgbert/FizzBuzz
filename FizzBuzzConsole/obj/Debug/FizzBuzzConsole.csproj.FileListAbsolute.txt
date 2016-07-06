@@ -1,0 +1,13 @@
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\nathan.egbert\Desktop\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzClass.dll
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzClass.pdb
+C:\Users\nathan.egbert\Desktop\Dev-Training\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojResolveAssemblyReference.cache
